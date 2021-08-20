@@ -10,7 +10,7 @@
 <br />
 <b>Tools</b>
 <br />
-<img src="https://img.shields.io/badge/-GithubAction-black?logo=github" /> <img src="https://img.shields.io/badge/-AWS-orange?logo=Amazon%20AWS" /> <img src="https://img.shields.io/badge/-AWS-fff?logo=Git" />
+<img src="https://img.shields.io/badge/-GithubAction-black?logo=github" /> <img src="https://img.shields.io/badge/-AWS-orange?logo=Amazon%20AWS" /> <img src="https://img.shields.io/badge/-Git-fff?logo=Git" />
 
 
   <div align=center>
