@@ -7,9 +7,9 @@
 ```
 
 <b>⚙ Skill</b>
-- Front : React, React Query, Redux Toolkit, Mobx, Framer Motion, Expo, Styled Component
+- Front : React, React Query, Redux Toolkit, Mobx, Framer Motion, Expo, Styled Component, ElectronJS
 - Tools : Git, Github Action, Storybook, Webpack, AWS
-- Web : ElectronJS, CrossBrowsing
+- Web : CrossBrowsing
 
 <br />
 
