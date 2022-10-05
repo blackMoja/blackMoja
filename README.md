@@ -8,6 +8,6 @@
 
 <b>⚙ Skill</b>
 - Front : React, React Query, Redux Toolkit, Mobx, Framer Motion, Expo, ElectronJS
-- Style : Styled Component, Scss
+- Style : Styled Component, Scss, css
 - Tools : Git, Github Action, Storybook, Webpack, AWS
 - Web : CrossBrowsing
