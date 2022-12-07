@@ -11,3 +11,6 @@
 - Style : Styled Component, Scss, css
 - Tools : Git, Github Action, Storybook, Webpack, AWS
 - Web : CrossBrowsing
+
+[![blackMoja Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackMoja&layout=compact&theme=github_dark)](https://github.com/blackMoja/github-readme-stats)
+[![blackMoja GitHub stats](https://github-readme-stats.vercel.app/api?username=blackMoja&theme=github_dark&show_icons=true&hide=issues)](https://github.com/blackMoja/github-readme-stats)
